@@ -1,0 +1,1 @@
+# Nesne_-dev_Kuantum_Kaos_Y-netimi
