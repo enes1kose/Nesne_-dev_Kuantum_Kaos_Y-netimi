@@ -1,6 +1,5 @@
-# Nesne_-dev_Kuantum_Kaos_Y-netimi
+# Nesne_-dev_Kuantum_Kaos_Yönetimi
 README.md
-# Çoklu Dil Menü Tabanlı Sistem Projesi
 
 Bu proje, aynı program mantığını üç farklı dilde (C#, Python, JavaScript ve Java) yazmayı amaçlayan bir çalışma örneğidir. Programın temel amacı; kullanıcıya bir menü sunmak, seçimlere göre nesne eklemek, listelemek, analiz yapmak ve hata durumlarını özel mesajlarla göstermek üzerine kuruludur.
 
